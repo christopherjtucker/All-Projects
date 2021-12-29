@@ -1,2 +1,2 @@
 # All-Projects
-This repository contains all of my projects completed while developing my skills with SQL, Tableau, and Python.
+This repository contains all of my personal projects. These files are a demonstration of my working knowledge of SQL, Tableau, and Python.
